@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @amajayasinghe
 - 🌱 I’m Project manager in Project Razer
-- 📚 I’m currently learning HTML
+- 📚 I’m currently learning CSS
 - ⚡ I’m looking to collaborate on OS Projects
 - 📫 How to reach me ama.projectrazer@gmail.com
 
