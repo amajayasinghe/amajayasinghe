@@ -11,7 +11,7 @@
 - ⚡ I’m looking to collaborate on OS Projects
 - 📫 How to reach me ama.projectrazer@gmail.com
 
-<img src="https://raw.githubusercontent.com/amajayasinghe/amajayasinghe/output/snake.svg" alt="Snake animation" />
+<img src="https://platane.github.io/snk.svg" alt="Snake animation" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">    
