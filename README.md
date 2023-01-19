@@ -11,7 +11,7 @@
 - ⚡ I’m looking to collaborate on OS Projects
 - 📫 How to reach me ama.projectrazer@gmail.com
 
-![snake animation](https://github.com/amajayasinghe/amajayasinghe/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/amajayasinghe/amajayasinghe/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">    
