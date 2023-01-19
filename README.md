@@ -2,7 +2,9 @@
 <img src="https://i.imgur.com/dpcfSUU.png">
 </div><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amajayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="amajayasinghe" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amajayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="amajayasinghe" /> 
+</p>
+
 - 👋 Hi, I’m @amajayasinghe
 - 🌱 I’m COO at [Project Razer](https://projectrazer.com)
 - 📚 I’m currently learning JAVA
