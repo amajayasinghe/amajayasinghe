@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/KMXADen.png">
+<img src="https://i.imgur.com/dpcfSUU.png">
 </div>
 
 - 👋 Hi, I’m @amajayasinghe
